@@ -11,9 +11,9 @@ public class Example {
     String home() {
         return "Hello World!";
     }
+     // TODO: Add more functionalities
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(Example.class, args);
     }
-
 }
